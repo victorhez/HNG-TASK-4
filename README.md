@@ -1,5 +1,5 @@
 # HNG SHOPPING App
-<img src="screenshot10.png" width="300" height="600">
+<img src="screenshot1.png" width="300" height="600">
 This is a mobile application I developed for the Mobile Track Stage Four Task. 
 
 The main objective is to create an app that integrates this [figma design](https://www.figma.com/design/QHq9WbFOHgdDRhPuLOTNvB/HNG-INTERNSHIP?node-id=171-699&t=molEx9mMktSUNq5k-0)  with the Timbu API to display product information, and complete features like the ability to add and remove products from cart, checkout the order. a simulated payment flow, order confirmation and an orders history Screen.
@@ -73,7 +73,7 @@ Dependencies: Only necessary third-party packages are used to keep the app light
 <img src="screenshot8.png" width="300" height="600">
 <img src="screenshot9.png" width="300" height="600">
 <img src="screenshot10.png" width="300" height="600">
-
+<img src="screenshot11.png" width="300" height="600">
 
 ## Links
 Appetize.io Showcase: 
