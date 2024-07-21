@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mac/Documents/GitHub/HNG TASK 3/build/fluttertoast/intermediates/merged_res/release/values-ro/values-ro.xml",
+            "outputFile": "/Users/mac/Documents/GitHub/HNG-TASK-4/build/fluttertoast/intermediates/merged_res/release/values-ro/values-ro.xml",
             "map": [
                 {
                     "source": "/Users/mac/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ro/values-ro.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "/Users/mac/Documents/GitHub/HNG TASK 3/build/fluttertoast/intermediates/incremental/mergeReleaseResources/merged.dir/values-ro/values-ro.xml",
+            "outputFile": "/Users/mac/Documents/GitHub/HNG-TASK-4/build/fluttertoast/intermediates/incremental/mergeReleaseResources/merged.dir/values-ro/values-ro.xml",
             "map": [
                 {
                     "source": "/Users/mac/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ro/values-ro.xml",

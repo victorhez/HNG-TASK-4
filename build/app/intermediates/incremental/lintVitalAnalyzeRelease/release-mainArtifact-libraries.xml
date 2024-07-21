@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:/Users/mac/Documents/GitHub/HNG TASK 3/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/Users/mac/Documents/GitHub/HNG TASK 3/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/Users/mac/Documents/GitHub/HNG TASK 3/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/Users/mac/Documents/GitHub/HNG-TASK-4/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/Users/mac/Documents/GitHub/HNG-TASK-4/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/Users/mac/Documents/GitHub/HNG-TASK-4/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
-      name="/Users/mac/Documents/GitHub/HNG TASK 3/android@@:fluttertoast::release"
-      jars="/Users/mac/Documents/GitHub/HNG TASK 3/build/fluttertoast/.transforms/afbef72995a761b64ade074ca8dfef05/transformed/out/jars/classes.jar"
+      name="/Users/mac/Documents/GitHub/HNG-TASK-4/android@@:fluttertoast::release"
+      jars="/Users/mac/Documents/GitHub/HNG-TASK-4/build/fluttertoast/.transforms/1ac36c6e6595531650d90dd1f79223d2/transformed/out/jars/classes.jar"
       resolved="com.example.FlutterToast:fluttertoast:unspecified"
-      folder="/Users/mac/Documents/GitHub/HNG TASK 3/build/fluttertoast/.transforms/afbef72995a761b64ade074ca8dfef05/transformed/out"
+      folder="/Users/mac/Documents/GitHub/HNG-TASK-4/build/fluttertoast/.transforms/1ac36c6e6595531650d90dd1f79223d2/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
