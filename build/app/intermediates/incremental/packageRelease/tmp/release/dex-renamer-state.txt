@@ -1,4 +1,4 @@
-#Sun Jul 21 19:28:56 WAT 2024
+#Sun Jul 21 21:26:24 WAT 2024
 base.0=/Users/mac/Documents/GitHub/HNG-TASK-4/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
